@@ -1,23 +1,11 @@
-# Coderwall [Clamshell](http://code.google.com/p/clamshell-cli/) Command [![endorse](http://api.coderwall.com/alessandroleite/endorsecount.png)](http://coderwall.com/alessandroleite)
+# [Coderwall](http://coderwall.com/) [Clamshell](http://code.google.com/p/clamshell-cli/) Command [![endorse](http://api.coderwall.com/alessandroleite/endorsecount.png)](http://coderwall.com/alessandroleite)
 
-Coderwall [Clamshell](http://code.google.com/p/clamshell-cli/) Command
+[Coderwall](http://coderwall.com/) [Clamshell](http://code.google.com/p/clamshell-cli/) Command
 
 ## Build
 
 ```
 mvn package jar:jar
-```
-
-## Running
-```
-
-## Output
-
-```
-
-## Usage
-
-```
 ```
 
 ## Contributing
