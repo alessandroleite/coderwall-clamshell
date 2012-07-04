@@ -1,4 +1,4 @@
-# [Coderwall](http://coderwall.com/) [Clamshell](http://code.google.com/p/clamshell-cli/) Command [![endorse](http://api.coderwall.com/alessandroleite/endorsecount.png)](http://coderwall.com/alessandroleite)
+# [Coderwall](http://coderwall.com/) [Clamshell](http://code.google.com/p/clamshell-cli/) Command [![endorse](http://api.coderwall.com/alessandroleite/endorsecount.png)](http://coderwall.com/alessandroleite) [![Build Status](https://secure.travis-ci.org/[alessandroleite]/[coderwall-clamshell].png)](http://travis-ci.org/[alessandroleite]/[coderwall-clamshell])
 
 [Coderwall](http://coderwall.com/) [Clamshell](http://code.google.com/p/clamshell-cli/) Command
 
